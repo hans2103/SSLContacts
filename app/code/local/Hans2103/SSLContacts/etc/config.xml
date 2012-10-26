@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+	<modules>
+		<Hans2103_SSLContacts>
+			<version>0.0.1</version>
+		</Hans2103_SSLContacts>
+	</modules>
+	<frontend>
+		<secure_url> 
+			<contacts>/contacts/</contacts> 
+		</secure_url>
+	</frontend>
+</config>
