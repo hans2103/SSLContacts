@@ -1,0 +1,14 @@
+{
+  "name": "hans2103/sslcontacts",
+  "type": "magento-module",
+  "homepage": "https://github.com/hans2103/SSLContacts",
+  "description": "routes contacts page through https instead of httpy",
+  "authors": [
+    {
+      "name": "Hans Kuijpers"
+    }
+  ],
+  "require": {
+    "magento-hackathon/magento-composer-installer": "*"
+  }
+}
